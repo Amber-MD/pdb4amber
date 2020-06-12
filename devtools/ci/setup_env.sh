@@ -21,7 +21,7 @@ conda install scipy -y
 conda install coverage -y 
 # conda install libgfortran -c conda-forge -y
 
-conda install ambertools=18 -c http://ambermd.org/downloads/ambertools/conda/ -y
+conda install ambertools -c conda-forge -y
 pip install mock
 
 # pytest
